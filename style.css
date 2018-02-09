@@ -1,0 +1,26 @@
+body {
+    background-color:#3255c9;
+    margin: 0;
+}
+
+nav{
+    background-color: limegreen;
+    padding: 15px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+nav ul li a {
+    color: #000;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+header 
